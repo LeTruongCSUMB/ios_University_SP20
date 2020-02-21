@@ -4,7 +4,7 @@
 
 Time spent: **2** hours spent in total
 
-# Twitter - Part II
+# Twitter - Part I
 
 ## User Stories
 
